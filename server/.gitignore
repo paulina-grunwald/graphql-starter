@@ -1,0 +1,19 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+.env
+
+# production
+build
+
+# Dependency directories
+node_modules
+
+# WebStorm related editor files
+.idea/*
+
+# MISC
+.DS_Store
+
+.vscode
